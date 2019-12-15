@@ -1,2 +1,2 @@
 # aacosta.dev
-My personal website aacosta.dev 
+My vue personal website aacosta.dev 
